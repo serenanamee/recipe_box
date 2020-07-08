@@ -11,6 +11,7 @@ gem 'webpacker', '~> 4.0'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 gem 'simple_form'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 gem 'hamlit', '~> 2.9', '>= 2.9.2'
 # gem 'image_processing', '~> 1.2'
